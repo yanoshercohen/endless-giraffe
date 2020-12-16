@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+  padding-top: 5vh;
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none; 
+  background-image: url("../images/background.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+body::-webkit-scrollbar {
+  display: none;
+}
+
+
+.giraffe-head {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 60vh;
+  width: 38.203vh;
+}
+
+.giraffe-neck {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 115.024vh;
+  width: 38.203vh;
+}
