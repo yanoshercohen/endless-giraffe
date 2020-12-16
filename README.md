@@ -1,5 +1,5 @@
 # Yep, an endless giraffe, just as it sounds like
-<img src="https://i.postimg.cc/MTqJg7Cf/unknown-2.png">
+(https://i.postimg.cc/MTqJg7Cf/unknown-2.png)
 ```diff
 - Warning: do not feed the giraffe
 ```
