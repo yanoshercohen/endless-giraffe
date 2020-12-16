@@ -3,10 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
-
 body {
   padding-top: 5vh;
-  -ms-overflow-style: none;  /* IE and Edge */
+  -ms-overflow-style: none; 
   scrollbar-width: none; 
   background-image: url("../images/background.png");
   background-repeat: no-repeat;
@@ -17,8 +16,6 @@ body {
 body::-webkit-scrollbar {
   display: none;
 }
-
-
 .giraffe-head {
   display: block;
   margin-left: auto;
@@ -26,7 +23,6 @@ body::-webkit-scrollbar {
   height: 60vh;
   width: 38.203vh;
 }
-
 .giraffe-neck {
   display: block;
   margin-left: auto;
